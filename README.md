@@ -3,7 +3,7 @@
 ## Project Overview
 In this project, PlanMyTrip is a top travel technology company that is working on a travel app for customers. It uses weather data and data to recommend ideal hotels based on clients’ weather preferences of 500+ cities. This project will enhance the user interface and functionalities.
 
-# Steps:
+## Steps:
 1. Retrieve weather data that includies the weather description for these cities
 2. Create a customer travel destinations map
 3. Create a travel itinerary map
